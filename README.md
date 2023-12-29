@@ -39,7 +39,7 @@ Innovative iOS developer with 6 years of software development experience. Robust
 
 ### Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogirajthombre)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohittomer)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # 📊 GitHub Stats:
