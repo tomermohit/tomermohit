@@ -48,7 +48,7 @@ Innovative iOS developer with 6 years of software development experience. Robust
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohitTomer&theme=monokai&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MohitTomer&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mohittomer&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
