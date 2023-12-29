@@ -23,7 +23,7 @@ Innovative iOS developer with 6 years of software development experience. Robust
 <br><br>* Worked with async/awit. 
 <br><br>* Proficient in Swift and in SwiftUI.
 <br><br>* Worked on multiple design patterns MVC and MVVM. 
-<br><br>* Worked with Lottie Animation - creation and implementation. 
+<br><br>* Worked with Lottie Animation- creation and implementation. 
 <br><br>* Skilled in 3rd party libraries and Web Services integration.
 <br><br>* Familiar with version control systems like Git and Bitbucket. 
 <br><br>* Worked on Google Place API, In-App Purchases, Push Notifications and App Localization. 
