@@ -31,7 +31,7 @@ Innovative iOS developer with 6 years of software development experience. Robust
 <br><br>* Worked on Chat Message Translation with support of 72+ international languages using MLKit. 
 <br><br>* Complete understanding of AppStore features such as AppStore connect, test flight etc for managing, testing and deploying the app. 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-tomer-151a72152/) 
 
 # 💻 Tech Stack:
@@ -50,7 +50,7 @@ Innovative iOS developer with 6 years of software development experience. Robust
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tomermohit&theme=monokai&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tomermohit&theme=monokai&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tomermohit&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
