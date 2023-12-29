@@ -53,9 +53,6 @@ Innovative iOS developer with 6 years of software development experience. Robust
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tomermohit&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tomermohit&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
