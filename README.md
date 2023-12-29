@@ -39,8 +39,8 @@ Innovative iOS developer with 6 years of software development experience. Robust
 ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![asyn/Await](https://img.shields.io/badge/-asyn/Await-C51A4A?style=for-the-badge&logo=asyn/Await)
-![Translation](https://img.shields.io/badge/translation-6DA55F?style=for-the-badge&logo=translation&logoColor=white) 
+![asyn/Await](https://img.shields.io/badge/-asyn/Await-FCC624?style=for-the-badge&logo=codeium)
+![Translation](https://img.shields.io/badge/translation-4285F4?style=for-the-badge&logo=googletranslate&logoColor=white) 
 
 # 📈 Stats:
 
