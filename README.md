@@ -56,6 +56,8 @@ Innovative iOS developer with 6 years of software development experience. Robust
 ![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white)
 ![Push Notification](https://img.shields.io/badge/PushNotification-300D4F?style=for-the-badge&logo=semrush&logoColor=white)
 ![Localization](https://img.shields.io/badge/Localization-A5915F?style=for-the-badge&logo=local&logoColor=white)
+![Animations](https://img.shields.io/badge/Animations-E43526?style=for-the-badge&logo=mariadbfoundation&logoColor=white)
+
 
 # 📈 Stats:
 
