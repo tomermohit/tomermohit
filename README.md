@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 ## ***Hey 👋, I'm Mohit Tomer !***  
   
 # 💫 About Me:
-<br><br>* Innovative iOS developer with 6 years of software development experience. Robust object-oriented design, programming, and debugging skills.
+Innovative iOS developer with 6 years of software development experience. Robust object-oriented design, programming, and debugging skills.
+<br><br>*
 <br><br>* Worked with async/awit. 
 <br><br>* Proficient in Swift and in SwiftUI.
 <br><br>* Worked on multiple design patterns MVC and MVVM. 
