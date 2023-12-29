@@ -20,15 +20,16 @@ Here are some ideas to get you started:
   
 # 💫 About Me:
 <br><br>* Innovative iOS developer with 6 years of software development experience. Robust object-oriented design, programming, and debugging skills.
-<br><br>* Proficient in Swift and in SwiftUI.
 <br><br>* Worked with async/awit. 
-<br><br>* Skilled in 3rd party libraries and Web Services  integration, MVC, MVVM,  Clean architecture.
-<br><br> * Adroit in creating Reusable components.
-<br><br>* Knowledgeable to all stages of Software Development Life Cycle.
-<br><br>* Capable of getting functional requirements and design documents.
-<br><br>* Always ready to learn new things.
-<br><br>* Team player, Flexible, Keen Observer, Ambitious
-
+<br><br>* Proficient in Swift and in SwiftUI.
+<br><br>* Worked on multiple design patterns MVC and MVVM. 
+<br><br>* Worked with Lottie Animation - creation and implementation. 
+<br><br>* Skilled in 3rd party libraries and Web Services integration.
+<br><br>* Familiar with version control systems like Git and Bitbucket. 
+<br><br>* Worked on Google Place API, In-App Purchases, Push Notifications and App Localization. 
+<br><br>* Complete understanding of APNs and FCM for push notification implementation in the app. 
+<br><br>* Worked on Chat Message Translation with support of 72+ international languages using MLKit. 
+<br><br>* Complete understanding of AppStore features such as AppStore connect, test flight etc for managing, testing and deploying the app. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-tomer-151a72152/) 
