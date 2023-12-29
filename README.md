@@ -38,11 +38,18 @@ Innovative iOS developer with 6 years of software development experience. Robust
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Swift UI](https://img.shields.io/badge/swiftui-FC8019?style=for-the-badge&logo=swift&logoColor=white)
 ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=for-the-badge&logo=apple&logoColor=white)
+![UiDesign](https://img.shields.io/badge/UiDesign-%FFA200.svg?style=for-the-badge&logo=materialdesign&logoColor=white)
+![Framework](https://img.shields.io/badge/Framework-2CB9F1?style=for-the-badge&logo=framework7&logoColor=white)
+![CoreDate](https://img.shields.io/badge/CoreDate-9146FF?style=for-the-badge&logo=databricks&logoColor=white)
+![AppStorage](https://img.shields.io/badge/AppStorage-AECBFA?style=for-the-badge&logo=googlecloudstorage&logoColor=white)
+![AutoLayout](https://img.shields.io/badge/AutoLayout-E51050?style=for-the-badge&logo=powerautomate&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIkit-%234ea94b.svg?style=for-the-badge&logo=uikit&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![asyn/Await](https://img.shields.io/badge/-asyn/Await-FCC624?style=for-the-badge&logo=codeium)
-![Translation](https://img.shields.io/badge/translation-4285F4?style=for-the-badge&logo=googletranslate&logoColor=white) 
+![Translation](https://img.shields.io/badge/translation-4285F4?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
+![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white)
 
 # 📈 Stats:
 
