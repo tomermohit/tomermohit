@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## ***Hey 👋, I'm Mohit Tomer !***  
   
 # 💫 About Me:
-<br><br>* 6 years of experience in native iOS Mobile Application development. <br>Proficient in Swift, learner in SwiftUI<br><br>* Skilled in 3rd party libraries and Web Services  integration, MVC, MVVM,  Clean architecture.<br><br> * Adroit in creating Reusable components.<br><br>* Knowledgeable to all stages of Software Development Life Cycle. <br><br>* Capable of getting functional requirements and design documents.<br>Always ready to learn new things.<br><br>* Team player, Flexible, Keen Observer, Ambitious
+<br><br>* 6 years of experience in native iOS Mobile Application development. <br><br>Proficient in Swift, learner in SwiftUI<br><br>* Skilled in 3rd party libraries and Web Services  integration, MVC, MVVM,  Clean architecture.<br><br> * Adroit in creating Reusable components.<br><br>* Knowledgeable to all stages of Software Development Life Cycle. <br><br>* Capable of getting functional requirements and design documents.<br>Always ready to learn new things.<br><br>* Team player, Flexible, Keen Observer, Ambitious
 
 
 ## 🌐 Socials:
