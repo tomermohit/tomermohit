@@ -23,9 +23,9 @@ edit icons:--   https://simpleicons.org
 ## ***Hey 👋 I'm Mohit Tomer !***  
   
 # 💫 About Me:
-Innovative iOS developer with 6 years of software development experience. Robust object-oriented design, programming, and debugging skills.
+Innovative iOS developer with 7 years of software development experience. Robust object-oriented design, programming, and debugging skills.
 <br><br>* Worked with async/awit. 
-<br><br>* Proficient in Swift and in SwiftUI.
+<br><br>* Proficient in Swift and SwiftUI.
 <br><br>* Worked on multiple design patterns MVC and MVVM. 
 <br><br>* Skilled in 3rd party libraries and Web Services integration.
 <br><br>* Familiar with version control systems like Git and Bitbucket. 
